@@ -11,6 +11,7 @@ public class Main {
 	public static void main(String[] args) {
 		SchoolController schoolcontroller = new SchoolController();
 		schoolcontroller.start();
+		System.out.println("program start");
 	}
 
 }
